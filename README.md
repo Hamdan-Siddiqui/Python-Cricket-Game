@@ -1,6 +1,3 @@
-Here’s a simplified README for your Python Cricket Game program:
-
----
 
 # Python Cricket Game 🏏
 
